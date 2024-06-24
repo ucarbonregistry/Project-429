@@ -60,3 +60,67 @@ CERs requested up to 31 December 2012: 8089 CERs
 
 Serial Range: Block start: IN-5-173003611-1-1-0-3594  --- Block end: IN-5-173011699-1-1-0-3594
 __________________________
+UCR ISSUE DATE: 24/06/2024
+
+CoUs issued in two batches since 2023 vintage did not contain adequate number of credits for 5% issuance fee. Hence two batches have been used for issuance (2013-2022 batch 1, 2023 batch 2)
+__________________
+Serial Number: 0001-000001-008558-UCR-CoU-IN-429-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 8558
+______________
+Serial Number: 0001-008559-014494-UCR-CoU-IN-429-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 5936
+_______________
+Serial Number: 0001-014495-019174-UCR-CoU-IN-429-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 4680
+________________
+Serial Number: 0001-019175-027677-UCR-CoU-IN-429-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 8503
+_________________
+Serial Number: 0001-027678-036736-UCR-CoU-IN-429-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 9059
+________________
+Serial Number: 0001-036737-041084-UCR-CoU-IN-429-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 4348
+_________________
+Serial Number: 0001-041085-045227-UCR-CoU-IN-429-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 4143
+_______________
+Serial Number: 0001-045228-049578-UCR-CoU-IN-429-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 4351
+______________
+Serial Number: 0001-049579-055615-UCR-CoU-IN-429-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 6037
+______________
+Serial Number: 0001-055616-061793-UCR-CoU-IN-429-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 6178
+____________________
